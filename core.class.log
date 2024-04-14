@@ -1,0 +1,99 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573186029980@s.whatsapp.net',
+    fromMe: false,
+    id: '60B6E74F1C96669F1077FA51CC75568E',
+    participant: undefined
+  },
+  messageTimestamp: 1713082288,
+  pushName: 'خافيير',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573186029980'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573186029980@s.whatsapp.net',
+    fromMe: false,
+    id: '60B6E74F1C96669F1077FA51CC75568E',
+    participant: undefined
+  },
+  messageTimestamp: 1713082289,
+  pushName: 'خافيير',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aja',
+  from: '573186029980'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573186029980@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE5801B75FFABFB6A32A8B3D24A2C17A',
+    participant: undefined
+  },
+  messageTimestamp: 1713082292,
+  pushName: 'خافيير',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573186029980'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_825339ea-3953-4a9d-9cad-6040d3500e72',
+  keyword: 'key_d0146b67-6da4-4e31-8759-1b8799712d64',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb1e6138d3a099b5cdbcccbfae711403'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7f926a5-41db-4bba-be5b-bb49db1b2cfe',
+  keyword: 'ans_825339ea-3953-4a9d-9cad-6040d3500e72',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd66e4c376de8822d219a2bf66b5c6d3'
+}
